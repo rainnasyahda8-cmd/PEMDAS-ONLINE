@@ -6,5 +6,5 @@ float Rata_rata(float a, float b){
 }
 
 string Status_lulus(float r){
-    if
+    if (r >= 60)
 }
